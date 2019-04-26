@@ -4,7 +4,7 @@
 
 This is a basic CRUD using GOLANG
 
-We can access the API in: herokulink
+You can access the API in: https://go-apis.herokuapp.com
 
 ## Database (MYSQL)
 - Create an database with name "school" and one table like this (MYSQL example):
